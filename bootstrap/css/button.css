@@ -1,0 +1,13 @@
+.readmore {
+  display: block;
+  float: right;
+  margin-right: 20px;
+  background: silver;
+  color: #fff;
+  padding: 6px;
+}
+.readmore:hover {
+  color: white !important;
+  background: black !important;
+  text-decoration: none;
+}
